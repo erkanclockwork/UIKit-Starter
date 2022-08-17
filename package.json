@@ -1,0 +1,20 @@
+{
+  "name": "uikit-starter",
+  "version": "1.0.0",
+  "description": "This is the tutorial of adding UIKit into .NET projects. Follow the steps correctly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erkanclockwork/UIKit-Starter.git"
+  },
+  "keywords": [],
+  "author": "Erkan ALTINORS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erkanclockwork/UIKit-Starter/issues"
+  },
+  "homepage": "https://github.com/erkanclockwork/UIKit-Starter#readme"
+}
