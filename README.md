@@ -1,1 +1,1 @@
-This is the tutorial of adding UIKit into .NET projects.
+This is the tutorial of adding UIKit into .NET projects. Follow the steps correctly.
